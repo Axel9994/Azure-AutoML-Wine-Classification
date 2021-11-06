@@ -32,4 +32,4 @@ wine_data = wine_data[[  'name',
              	'hue'
                 ]]
 
-wine_data.to_csv('wine_data.csv', index = False, sep=',', )
+wine_data.to_csv('wine_data.csv', index = False, sep=',')
